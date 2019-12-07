@@ -25,6 +25,4 @@ function postExample(req, res, next) {
     console.log(User);
 }
 
-module.exports = {
-    postExample
-}
+module.exports = postExample

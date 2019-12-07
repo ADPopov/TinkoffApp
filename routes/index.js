@@ -1,4 +1,4 @@
-const postExample = require('../workers/auth/index.js');
+const postExample = require('../workers/auth/index');
 var express = require('express');
 var router = express.Router();
 
